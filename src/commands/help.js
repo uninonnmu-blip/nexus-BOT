@@ -251,6 +251,7 @@ const PAGES = [
           "`,adminitem add/remove @user <item>`",
           "`,admingive @user <item> [qty]` — Give items directly",
           "`,adminrole permanent/extend/delete @user`",
+          "`,giverole @user <roleId>` — Manually assign a role (tracks shop ownership)",
           "`,endlottery` — Force end the lottery draw",
           "`,adminhibernate @user <days|remove>` — Force-set or clear hibernation",
           "`,robber` — Spawn a robber drop in this channel (testing)",
